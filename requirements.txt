@@ -1,7 +1,7 @@
 dj-database-url
 django-heroku
 gunicorn
-psycopg
+psycopg2
 #psycopg2==2.7.7
 python-decouple
 whitenoise
