@@ -34,8 +34,8 @@ ALLOWED_HOSTS = ['s2gdrive.herokuapp.com']
 
 # Application definition
 
+#'django.contrib.admin',
 INSTALLED_APPS = [
-    'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
