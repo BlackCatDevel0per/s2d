@@ -29,13 +29,13 @@ SECRET_KEY = 'django-insecure-%5s=ww9^+xsp5v-0$dtgo=c6p2v0qz!+q3q0$k%5)+%$*w6!!*
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['s2gdrive.herokuapp.com']
+ALLOWED_HOSTS = ['s2cd.herokuapp.com']
 
 
 # Application definition
 
 INSTALLED_APPS = [
-    'django.contrib.admin',
+#    'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
