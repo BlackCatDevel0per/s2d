@@ -1,0 +1,10 @@
+dj-database-url
+django-heroku
+gunicorn
+psycopg2
+#psycopg2==2.7.7
+python-decouple
+whitenoise
+
+pytube
+

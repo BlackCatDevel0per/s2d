@@ -1,1 +1,1 @@
-web: gunicorn s2d_project.wsgi --log-file -
+web: gunicorn s2d.wsgi --log-file -
