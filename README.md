@@ -1,3 +1,3 @@
-# s2d 
-## Save YouTube videos to CloudDrive!(Beta)
+# s2d (Alpha)
+## Save YouTube videos to CloudDrive!
 ## https://s2gdrive.herokuapp.com/
